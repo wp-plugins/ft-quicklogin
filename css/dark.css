@@ -1,0 +1,54 @@
+/*------------------------------------------------
+*  QuickLogin Dark Style
+*-----------------------------------------------*/
+#fql-overlay {
+	background-color: #000;
+}
+
+#fql-box {
+	border-color: #FFFFFF;
+
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+#fql-bar {
+	background: #1c1c1c;
+}
+
+#fql-bar ul#fql-menu {
+	color: #FFFFFF;
+}
+
+#fql-bar ul#fql-menu li {
+	border-left: 1px solid #525252;
+}
+
+#fql-bar ul#fql-menu li a {
+	color: #FFFFFF;
+}
+
+#fql-bar ul#fql-menu li a:hover {
+	color: #1fe3b0;
+}
+
+#fql-bar ul#fql-news {
+	color: #FFFFFF;
+}
+
+#fql-bar ul#fql-news li a {
+	color: #FFFFFF;
+}
+
+#fql-bar ul#fql-news li a:hover {
+	color: #1fe3b0;
+}
+
+#fql-bar ul#fql-news li span {
+	color: #1fe3b0;
+}
+
+#fql-bar ul#fql-news li span a {
+	color: #1fe3b0;
+}
